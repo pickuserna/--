@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hell
+=======
+hellx
+>>>>>>> modify
