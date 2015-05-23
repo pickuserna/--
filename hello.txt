@@ -4,3 +4,4 @@ hell
 hellx
 >>>>>>> mvdify
 add a line
+this is a line modified by ""modify""
